@@ -1,0 +1,5 @@
+nodemon - for monitorind running server
+
+npm i express body-parser bcrpt cors dotenv gridfs-stream multer multer-gridfs-storage helmet morgan jsonwebtoken mongoose^C
+
+type: module add this to import instead of require
